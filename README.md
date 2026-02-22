@@ -8,10 +8,14 @@
 <div>
   <!--Body-->
   
+# 🚀 Portfolio & Resume
 
-## 👀 About Me
+[![Portfolio](https://img.shields.io/badge/📄%20Portfolio%20%26%20Resume-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HaloTwo/portfolio)
+
+# 👀 About Me
 
 #### 🎮 게임 클라이언트 개발자
+
 ##
 #### 🎓 한림대학교 소프트웨어전공 콘텐츠IT학과 졸업 (2019.03 ~ 2023.02)  
 #### 💻 경일게임아카데미 유니티 클라이언트 과정 수료 (2023.03 ~ 2023.08)  
@@ -60,17 +64,4 @@
 
 </div>
 
-<!--
-**Jiyu-Kim/Jiyu-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-- Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
